@@ -1,0 +1,8 @@
+C:\Users\Deniz\Desktop\Buchstaben vertauschen\Buchstaben vertauschen\bin\Debug\Buchstaben vertauschen.exe.config
+C:\Users\Deniz\Desktop\Buchstaben vertauschen\Buchstaben vertauschen\bin\Debug\Buchstaben vertauschen.exe
+C:\Users\Deniz\Desktop\Buchstaben vertauschen\Buchstaben vertauschen\bin\Debug\Buchstaben vertauschen.pdb
+C:\Users\Deniz\Desktop\Buchstaben vertauschen\Buchstaben vertauschen\bin\Debug\MyLib.dll
+C:\Users\Deniz\Desktop\Buchstaben vertauschen\Buchstaben vertauschen\bin\Debug\MyLib.pdb
+C:\Users\Deniz\Desktop\Buchstaben vertauschen\Buchstaben vertauschen\obj\Debug\Buchstaben vertauschen.csprojResolveAssemblyReference.cache
+C:\Users\Deniz\Desktop\Buchstaben vertauschen\Buchstaben vertauschen\obj\Debug\Buchstaben vertauschen.exe
+C:\Users\Deniz\Desktop\Buchstaben vertauschen\Buchstaben vertauschen\obj\Debug\Buchstaben vertauschen.pdb
